@@ -29,7 +29,7 @@ I work as a professional in the area of Systems Analysis and Development. I carr
     + Agroti Agribusiness Systems: Sieca, Siman, Sigind, Sicap, Sifrota, Designer, Sgu.
     + Ionics SAAF Gas Station Automation System.
 
-    **Advanced English for speaking, writing and reading. Reading books, manuals, technical articles.**
+    + Advanced English for speaking, writing and reading. Reading books, manuals, technical articles.
 
 <!---
 eremitaio79/eremitaio79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
