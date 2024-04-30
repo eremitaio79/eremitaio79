@@ -14,22 +14,22 @@ I am open to collaboration opportunities and always willing to share my knowledg
 
 I work as a professional in the area of Systems Analysis and Development. I carry out development, analysis, updates, software projects, implementation of improvements and solutions in systems and portals. My background involves the application of various technologies, including:
 
-    • Languages: PHP, JavaScript, HTML, CSS e SQL.
-    • Frameworks and Libraries: React.js, jQuery, SCSS, Sass, Less e Bootstrap.
-    • Version control: Git, GitLab, GitHub e Bitbucket.
-    • Tests: PhpUnit.
-    • Databases: MySQL, PostgreSQL e SQL Server.
-    • Automation Tools: Docker.
-    • Project management: Jira e Monday.
-    • Package Managers: NPM, Yarn.
-    • Frameworks: Laravel 9x, 10x, 11x
-    • Operational systems: Windows, Linux e MacOS.
-    • Agile Methodologies: Scrum e Kanban.
-    • Senior's knowledge of Sapiens ERP and HCM.
-    • Agroti Agribusiness Systems: Sieca, Siman, Sigind, Sicap, Sifrota, Designer, Sgu.
-    • Ionics SAAF Gas Station Automation System.
+    + Languages: **PHP**, JavaScript, HTML, CSS e SQL.
+    + Frameworks and Libraries: React.js, jQuery, SCSS, Sass, Less e Bootstrap.
+    + Version control: Git, GitLab, GitHub e Bitbucket.
+    + Tests: PhpUnit.
+    + Databases: MySQL, PostgreSQL e SQL Server.
+    + Automation Tools: Docker.
+    + Project management: Jira e Monday.
+    + Package Managers: NPM, Yarn.
+    + Frameworks: Laravel 9x, 10x, 11x
+    + Operational systems: Windows, Linux e MacOS.
+    + Agile Methodologies: Scrum e Kanban.
+    + Senior's knowledge of Sapiens ERP and HCM.
+    + Agroti Agribusiness Systems: Sieca, Siman, Sigind, Sicap, Sifrota, Designer, Sgu.
+    + Ionics SAAF Gas Station Automation System.
 
-    • Advanced English for speaking, writing and reading. Reading books, manuals, technical articles.
+    **Advanced English for speaking, writing and reading. Reading books, manuals, technical articles.**
 
 <!---
 eremitaio79/eremitaio79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
