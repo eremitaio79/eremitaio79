@@ -1,22 +1,16 @@
 ## Paulo Eremita
-
 * 👋 Hi, I’m Paulo Eremita, **@eremitaio79**. I'm a PHP Developer, Laravel.
 * 👀 I’m interested in systems, softwares, CGI, Machine Learning, AI and project managment.
 * 🌱 I’m currently learning Data Science and Artificial Intelligence.
 * 📫 How to reach me? Send me a e-mail to **eremitaio79@gmail.com**
 * My Linkedin is **https://www.linkedin.com/in/pauloeremita/**
 
----
+### Profile
+* I am organized, analytical and attentive to details, committed and hardworking to deliver quality results. I like structured environments, where there are clear and defined rules. I perform my duties with attention to deadlines and I like to communicate with business areas and clients to achieve alignments, thus allowing for more agile deliveries. I am calm and listen carefully to the processes, tasks and feedback of the projects I am involved in.
+* I have good experience in the technologies described above. I am confident in facing challenges and finding efficient solutions to the needs of the company and customers. I focus on the performance and functionalities of the systems I work on, in addition to always looking for learning and continuous improvement to stay up to date with the latest trends and practices in the field of technology.
+* I am open to collaboration opportunities and always willing to share my knowledge with the team, in addition to seeking to learn from everyone, in order to boost the success of the projects I am involved in.
 
-I am organized, analytical and attentive to details, committed and hardworking to deliver quality results. I like structured environments, where there are clear and defined rules. I perform my duties with attention to deadlines and I like to communicate with business areas and clients to achieve alignments, thus allowing for more agile deliveries. I am calm and listen carefully to the processes, tasks and feedback of the projects I am involved in.
-
-I have good experience in the technologies described above. I am confident in facing challenges and finding efficient solutions to the needs of the company and customers. I focus on the performance and functionalities of the systems I work on, in addition to always looking for learning and continuous improvement to stay up to date with the latest trends and practices in the field of technology.
-
-I am open to collaboration opportunities and always willing to share my knowledge with the team, in addition to seeking to learn from everyone, in order to boost the success of the projects I am involved in.
-
----
-
-## I work as a professional in the area of Systems Analysis and Development. I carry out development, analysis, updates, software projects, implementation of improvements and solutions in systems and portals. My background involves the application of various technologies, including:
+#### I work as a professional in the area of Systems Analysis and Development. I carry out development, analysis, updates, software projects, implementation of improvements and solutions in systems and portals. My background involves the application of various technologies, including:
 
 * Languages: **PHP**, JavaScript, HTML, CSS e SQL.
 * Frameworks and Libraries: React.js, jQuery, SCSS, Sass, Less e Bootstrap.
@@ -33,7 +27,7 @@ I am open to collaboration opportunities and always willing to share my knowledg
 * Agroti Agribusiness Systems: Sieca, Siman, Sigind, Sicap, Sifrota, Designer, Sgu.
 * Ionics SAAF Gas Station Automation System.
 
-## English
+### English
 * Advanced English for speaking, writing and reading. Reading books, manuals, technical articles.
 
 <!---
