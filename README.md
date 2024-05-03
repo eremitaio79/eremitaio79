@@ -14,7 +14,7 @@ I am open to collaboration opportunities and always willing to share my knowledg
 
 I work as a professional in the area of Systems Analysis and Development. I carry out development, analysis, updates, software projects, implementation of improvements and solutions in systems and portals. My background involves the application of various technologies, including:
 
-    + Languages: **PHP**, JavaScript, HTML, CSS e SQL.
+* Languages: **PHP**, JavaScript, HTML, CSS e SQL.
     + Frameworks and Libraries: React.js, jQuery, SCSS, Sass, Less e Bootstrap.
     + Version control: Git, GitLab, GitHub e Bitbucket.
     + Tests: PhpUnit.
