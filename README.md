@@ -1,8 +1,10 @@
+## Paulo Eremita
+
 * 👋 Hi, I’m Paulo Eremita, **@eremitaio79**. I'm a PHP Developer, Laravel.
 * 👀 I’m interested in systems, softwares, CGI, Machine Learning, AI and project managment.
 * 🌱 I’m currently learning Data Science and Artificial Intelligence.
 * 📫 How to reach me? Send me a e-mail to **eremitaio79@gmail.com**
-My Linkedin is **https://www.linkedin.com/in/pauloeremita/**
+* My Linkedin is **https://www.linkedin.com/in/pauloeremita/**
 
 ---
 
