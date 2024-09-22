@@ -30,6 +30,9 @@
 ### English
 * Advanced English for speaking, writing and reading. Reading books, manuals, technical articles.
 
+### Currently developing
+* SIMETRIA SYSTEM- I am currently working on developing a complete order management system. This system includes a payment gateway, invoice generator, order manager, user credits, layout manager, spreadsheet, PDF, image and zip file manipulation capabilities. I developed the complete administrative panel with dashboards, managers for each part of the system, and operational logic based on requirements. The entire system is written with the object-oriented programming paradigm. I am developing with PHP, jQuery, Typescript, Bootstrap 5.3 as the interface framework, and open-source components for some features. It is quite an experience for full-stack development.
+
 <!---
 eremitaio79/eremitaio79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
