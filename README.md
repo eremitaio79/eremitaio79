@@ -6,32 +6,28 @@
 * My Linkedin is **https://www.linkedin.com/in/pauloeremita/**
 
 ### Profile
-* I am organized, analytical and attentive to details, committed and hardworking to deliver quality results. I like structured environments, where there are clear and defined rules. I perform my duties with attention to deadlines and I like to communicate with business areas and clients to achieve alignments, thus allowing for more agile deliveries. I am calm and listen carefully to the processes, tasks and feedback of the projects I am involved in.
-* I have good experience in the technologies described above. I am confident in facing challenges and finding efficient solutions to the needs of the company and customers. I focus on the performance and functionalities of the systems I work on, in addition to always looking for learning and continuous improvement to stay up to date with the latest trends and practices in the field of technology.
-* I am open to collaboration opportunities and always willing to share my knowledge with the team, in addition to seeking to learn from everyone, in order to boost the success of the projects I am involved in.
+* I am organized, analytical, and detail-oriented, committed to delivering quality results. I thrive in structured environments where there are clear and defined rules. I perform my tasks with close attention to deadlines and enjoy communicating with business areas and clients to ensure alignment, enabling more agile deliveries. I remain calm and attentive to processes, tasks, and feedback in the projects I am involved in.
+* I have solid experience with the technologies mentioned above and am confident in tackling challenges and finding efficient solutions to meet both company and customer needs. I focus on the performance and functionality of the systems I work on, while always striving for continuous learning and improvement to stay current with the latest trends and best practices in the technology field.
+* I am open to collaboration opportunities and always willing to share my knowledge with the team, while also eager to learn from others to help ensure the success of the projects I am involved in.
 
 #### I work as a professional in the area of Systems Analysis and Development. I carry out development, analysis, updates, software projects, implementation of improvements and solutions in systems and portals. My background involves the application of various technologies, including:
 
 * Languages: **PHP**, JavaScript, HTML, CSS e SQL.
-* Frameworks and Libraries: React.js, jQuery, SCSS, Sass, Less e Bootstrap.
+* Frameworks and Libraries: Angular, jQuery, SCSS, Sass, Less e Bootstrap.
 * Version control: Git, GitLab, GitHub e Bitbucket.
 * Tests: PhpUnit.
 * Databases: MySQL, PostgreSQL e SQL Server.
 * Automation Tools: Docker.
-* Project management: Jira e Monday.
+* Project management: Jira.
 * Package Managers: NPM, Yarn.
 * Frameworks: Laravel 9x, 10x, 11x
-* Operational systems: Windows, Linux e MacOS.
 * Agile Methodologies: Scrum e Kanban.
-* Senior's knowledge of Sapiens ERP and HCM.
-* Agroti Agribusiness Systems: Sieca, Siman, Sigind, Sicap, Sifrota, Designer, Sgu.
-* Ionics SAAF Gas Station Automation System.
 
 ### English
-* Advanced English for speaking, writing and reading. Reading books, manuals, technical articles.
+* Advanced English proficiency in speaking, writing, and reading. I regularly read books, manuals, and technical articles.
 
 ### Currently developing (2024)
-* SIMETRIA SYSTEM- I am currently working on developing a complete order management system. This system includes a payment gateway, invoice generator, order manager, user credits, layout manager, spreadsheet, PDF, image and zip file manipulation capabilities. I developed the complete administrative panel with dashboards, managers for each part of the system, and operational logic based on requirements. The entire system is written with the object-oriented programming paradigm. I am developing with PHP, jQuery, Typescript, Bootstrap 5.3 as the interface framework, and open-source components for some features. It is quite an experience for full-stack development.
+* SIMETRIA SYSTEM- I am currently working on the development of a comprehensive order management system. This system includes features such as a payment gateway, invoice generation, order management, user credits, layout management, and capabilities for manipulating spreadsheets, PDFs, images, and zip files. I developed the entire administrative panel, including dashboards, managers for each system component, and operational logic based on specific requirements. The system is fully written using the object-oriented programming paradigm. I am using PHP, jQuery, TypeScript, and Bootstrap 5.3 as the interface framework, along with open-source components for certain functionalities. This project has been a valuable experience in full-stack development.
 
 <!---
 eremitaio79/eremitaio79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
