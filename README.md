@@ -27,7 +27,7 @@
 * Advanced English proficiency in speaking, writing, and reading. I regularly read books, manuals, and technical articles.
 
 ### Currently developing (2024)
-* SIMETRIA SYSTEM- I am currently working on the development of a comprehensive order management system. This system includes features such as a payment gateway, invoice generation, order management, user credits, layout management, and capabilities for manipulating spreadsheets, PDFs, images, and zip files. I developed the entire administrative panel, including dashboards, managers for each system component, and operational logic based on specific requirements. The system is fully written using the object-oriented programming paradigm. I am using PHP, jQuery, TypeScript, and Bootstrap 5.3 as the interface framework, along with open-source components for certain functionalities. This project has been a valuable experience in full-stack development.
+* ALMANAQUE DO PROGRAMADOR - I am currently working on the development of a portal dedicated to system development and programming as a whole. This platform includes features such as articles, a forum, code examples in various languages, and many other topics.
 
 <!---
 eremitaio79/eremitaio79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
