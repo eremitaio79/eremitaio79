@@ -26,7 +26,7 @@
 ### English
 * Advanced English proficiency in speaking, writing, and reading. I regularly read books, manuals, and technical articles.
 
-### Currently developing (2024)
+### Currently developing (2025)
 * ALMANAQUE DO PROGRAMADOR - I am currently working on the development of a portal dedicated to system development and programming as a whole. This platform includes features such as articles, a forum, code examples in various languages, and many other topics.
 
 <!---
