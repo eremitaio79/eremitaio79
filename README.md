@@ -39,7 +39,8 @@ As a professional in Systems Analysis and Development, I specialize in the devel
 ### **Currently Developing (2025)**  
 * **ALMANAQUE DO PROGRAMADOR**  
   I am currently working on the development of a portal dedicated to system development and programming as a whole. This platform includes features such as articles, a forum, code examples in various languages, and many other topics.  
-
+* **DATA SCIENCE and ARTIFICIAL INTELLIGENCE**  
+I am currently dedicating myself to the study and exploration of Data Science and Artificial Intelligence. With a focus on understanding the core principles and cutting-edge techniques, I am continuously enhancing my skills in areas such as machine learning, deep learning, data analysis, and model deployment. Through hands-on projects, online courses, and research, I am committed to mastering these technologies and applying them to real-world challenges. My goal is to contribute to the advancement of AI solutions while gaining a deeper understanding of their impact on various industries.
 
 <!---
 eremitaio79/eremitaio79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
