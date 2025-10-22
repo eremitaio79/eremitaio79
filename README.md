@@ -26,7 +26,7 @@ As a professional in Systems Analysis and Development, I specialize in the devel
 * **Automation Tools:** Docker.  
 * **Project Management:** Jira.  
 * **Package Managers:** NPM, Yarn.  
-* **Frameworks:** **Laravel 9.x, 10.x, 11.x**.  
+* **Frameworks:** **Laravel**.  
 * **Agile Methodologies:** Scrum and Kanban.  
 
 ---
