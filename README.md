@@ -1,49 +1,85 @@
-## Paulo Eremita  
-* 👋 Hi, I’m Paulo Eremita, **@eremitaio79**. I'm a Software Engineer.  
-* 👀 I’m interested in systems, software development, CGI, Machine Learning, AI, and project management.  
-* 🌱 I’m currently learning Data Science and Artificial Intelligence.  
-* 📫 How to reach me? Send an email to **eremitaio79@gmail.com**.  
-* 💼 My LinkedIn: **[Paulo Eremita](https://www.linkedin.com/in/pauloeremita/)**  
+# 🔥 Paulo Eremita
+
+## Software Engineer | Backend Architecture | Applied AI & Machine Learning
+
+<p align="center">
+  <a href="https://linkedin.com/in/pauloeremita">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://pauloeremita.com.br">
+    <img src="https://img.shields.io/badge/Website-Portfolio-black?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <img src="https://img.shields.io/badge/Remote-Available-success?style=for-the-badge" />
+</p>
 
 ---
 
-### **Profile**  
-* I am organized, analytical, and detail-oriented, committed to delivering quality results. I thrive in structured environments with clear and defined rules. I perform tasks with close attention to deadlines and enjoy collaborating with business areas and clients to ensure alignment, enabling more agile deliveries.  
-* I remain calm and attentive to processes, tasks, and feedback in the projects I am involved in. I have solid experience with the technologies mentioned below and excel at tackling challenges and finding efficient solutions to meet both company and customer needs.  
-* My focus is on optimizing the performance and functionality of the systems I work on while continuously learning and staying updated with the latest trends and best practices in the technology field.  
-* I am open to collaboration opportunities, willing to share my knowledge with the team, and eager to learn from others to ensure project success.  
+## 🧠 About Me
+
+Software Engineer with over 6 years of experience in backend architecture, system modernization, and applied Artificial Intelligence.
+
+I specialize in transforming complex business rules into structured, scalable, and maintainable architectures.
+
+I work at the intersection of technology and strategy — bridging technical execution and business clarity.
 
 ---
 
-#### **Experience**  
-As a professional in Systems Analysis and Development, I specialize in the development, analysis, updates, and implementation of software projects, enhancements, and solutions for systems and portals. My expertise includes:  
+## 🚀 Tech Stack
 
-* **Languages:** PHP, Java, Kotlin, JavaScript, HTML, CSS, and SQL.  
-* **Frameworks and Libraries:** ReactJS/Native, Livewire, jQuery, SCSS, Sass, Less, Bootstrap, and Tailwind CSS.  
-* **Version Control:** Git, GitLab, GitHub, and Bitbucket.  
-* **Testing:** PhpUnit.  
-* **Databases:** MySQL, PostgreSQL, and SQL Server.  
-* **Automation Tools:** Docker.  
-* **Project Management:** Jira.  
-* **Package Managers:** NPM, Yarn.  
-* **Frameworks:** **Laravel**.  
-* **Agile Methodologies:** Scrum and Kanban.  
+### 🏗️ Architecture & Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/API-RESTful-green?style=flat)
+![MVC](https://img.shields.io/badge/Architecture-MVC-blue?style=flat)
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+### 🤖 AI & Data
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=flat)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-### **English Proficiency**  
-* Advanced English proficiency in speaking, writing, and reading. I regularly read books, manuals, and technical articles.  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eremitaio79&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eremitaio79&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-### **Currently Developing (2025)**  
-* **ALMANAQUE DO PROGRAMADOR**  
-  I am currently working on the development of a portal dedicated to system development and programming as a whole. This platform includes features such as articles, a forum, code examples in various languages, and many other topics.
-  
-* **DATA SCIENCE and ARTIFICIAL INTELLIGENCE**  
-I am currently dedicating myself to the study and exploration of Data Science and Artificial Intelligence. With a focus on understanding the core principles and cutting-edge techniques, I am continuously enhancing my skills in areas such as machine learning, deep learning, data analysis, and model deployment. Through hands-on projects, online courses, and research, I am committed to mastering these technologies and applying them to real-world challenges. My goal is to contribute to the advancement of AI solutions while gaining a deeper understanding of their impact on various industries.
+## 🏛️ Core Strengths
 
-<!---
-eremitaio79/eremitaio79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Backend Architecture & System Design  
+- Legacy System Modernization  
+- Applied Artificial Intelligence  
+- Structured Business Rule Modeling  
+- Technical Communication & Requirement Engineering  
+- Performance & Scalability Focus  
+
+---
+
+## 🎯 Current Focus
+
+- AI integration in production systems  
+- System architecture refinement  
+- Scalable backend solutions  
+- Building high-impact technology products  
+
+---
+
+## 🌍 Languages
+
+English — Advanced (spoken and written)
