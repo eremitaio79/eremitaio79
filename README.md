@@ -16,7 +16,8 @@
 
 ## 🧠 Sobre
 
-Engenheiro de Software com mais de 6 anos de experiência em arquitetura backend, modernização de sistemas e aplicação prática de Inteligência Artificial.
+Engenheiro de Software com mais de 6 anos de experiência em arquitetura backend, modernização de sistemas e aplicação prática de Inteligência Artificial.  
+Atualmente cursando Mestrado em Inteligência Artificial, com foco em sistemas inteligentes, machine learning e aplicações voltadas para resolução de problemas reais.
 
 Especialista em transformar regras de negócio complexas em arquiteturas estruturadas, escaláveis e sustentáveis.
 
@@ -75,16 +76,15 @@ Atuo na interseção entre tecnologia e estratégia — conectando execução t�
 
 Inglês — Avançado (leitura, escrita e conversação)
 
-
-
----
----
 ---
 
+---
+
+---
 
 # 🔥 Paulo Eremita
 
-## Software Engineer | Backend Architecture | Applied AI & Machine Learning
+## Software Engineer | Backend Architecture | Applied AI & Machine Learning | M.Sc. in AI (in progress)
 
 <p align="center">
   <a href="https://linkedin.com/in/pauloeremita">
@@ -100,7 +100,8 @@ Inglês — Avançado (leitura, escrita e conversação)
 
 ## 🧠 About Me
 
-Software Engineer with over 6 years of experience in backend architecture, system modernization, and applied Artificial Intelligence.
+Software Engineer with over 6 years of experience in backend architecture, system modernization, and applied Artificial Intelligence.  
+Currently pursuing a Master’s degree in Artificial Intelligence, focusing on intelligent systems, machine learning, and real-world problem-solving through technology.
 
 I specialize in transforming complex business rules into structured, scalable, and maintainable architectures.
 
