@@ -57,7 +57,7 @@ This project highlights backend-oriented migration engineering: data quality ana
 
 ## Selected stack
 
-- Backend: PHP, Laravel, Python, REST APIs, system design
+- Backend & Systems: PHP, Laravel, Python, REST APIs, system design
 - Frontend: React, TypeScript, JavaScript
 - Data: MySQL, SQL Server, Power BI
 - AI: applied AI, machine learning workflows, AI-native product thinking
