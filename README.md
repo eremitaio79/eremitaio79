@@ -48,6 +48,13 @@ Public-safe Python CLI case study for legacy user migration, focused on CSV anal
 
 This project highlights backend-oriented migration engineering: data quality analysis, operational safety, and sanitized publication of a real internal tool.
 
+### payroll-migration-engine
+Sanitized Python ETL case study for payroll migration, covering Oracle extraction, normalized PostgreSQL loading, pre-load diagnostics, and controlled cache refresh workflows.
+
+- Repository: [payroll-migration-engine](https://github.com/eremitaio79/payroll-migration-engine)
+
+This project highlights deeper data engineering concerns: multi-stage ETL orchestration, idempotent loading, validation-first execution, and public-safe packaging of a complex internal migration system.
+
 ## Current direction
 
 - building stronger public case studies around architecture and delivery systems
