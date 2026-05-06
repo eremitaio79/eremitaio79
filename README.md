@@ -55,6 +55,13 @@ Sanitized Python ETL case study for payroll migration, covering Oracle extractio
 
 This project highlights deeper data engineering concerns: multi-stage ETL orchestration, idempotent loading, validation-first execution, and public-safe packaging of a complex internal migration system.
 
+### legacy-analysis-workbench
+Sanitized AI-assisted legacy analysis workbench for PHP and SQL Server systems, combining static scanning, dependency tracing, schema inspection, UI flow analysis, and domain mapping.
+
+- Repository: [legacy-analysis-workbench](https://github.com/eremitaio79/legacy-analysis-workbench)
+
+This project highlights higher-level engineering leverage: building internal instruments that help teams understand, diagnose, and modernize large legacy systems with structured AI assistance.
+
 ## Current direction
 
 - building stronger public case studies around architecture and delivery systems
