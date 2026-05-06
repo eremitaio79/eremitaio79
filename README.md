@@ -31,7 +31,7 @@ My current work sits at the intersection of:
 - using AI as a real collaborator instead of a novelty layer
 - shipping real products as validation, not just publishing ideas
 
-## Featured public case
+## Featured public cases
 
 ### Meta Contingency Game
 Shipped psychology research application built with React, TypeScript, browser-side SQLite, and an embedded SDD workflow.
@@ -40,6 +40,13 @@ Shipped psychology research application built with React, TypeScript, browser-si
 - Live app: [codelib.com.br/app](https://codelib.com.br/app/)
 
 This project is a public validation case for a private internal SDD blueprint that I am evolving as part of a broader platform vision.
+
+### pytool-migra-users
+Public-safe Python CLI case study for legacy user migration, focused on CSV analysis, sanitation rules, SQL generation, and controlled PostgreSQL loading.
+
+- Repository: [pytool_migra_users](https://github.com/eremitaio79/pytool_migra_users)
+
+This project highlights backend-oriented migration engineering: data quality analysis, operational safety, and sanitized publication of a real internal tool.
 
 ## Current direction
 
