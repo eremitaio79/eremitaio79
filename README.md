@@ -79,7 +79,7 @@ This project highlights higher-level engineering leverage: building internal ins
 
 ## About me
 
-I have over 6 years of experience working with backend architecture, legacy modernization, and real-world software delivery.
+I have over 12 years of experience working with backend architecture, legacy modernization, and real-world software delivery.
 
 I am also pursuing a Master's degree in Artificial Intelligence, with a strong interest in intelligent systems that are useful outside the lab and durable inside production.
 
